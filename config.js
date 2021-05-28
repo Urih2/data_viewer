@@ -1,8 +1,9 @@
 /*** USE THIS FILE TO SET OPTIONS ***/
 
 GexfJS.setParams({
-    graphFile : "filtered_graph.gexf",
+    graphFile : "miserables..gexf",
 	/* miserables.gefx
+		filtered_graph.gexf
 	*/
         /*
             The GEXF file to show ! -- can be overriden by adding
