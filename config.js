@@ -2,6 +2,8 @@
 
 GexfJS.setParams({
     graphFile : "filtered_graph.gexf",
+	/* miserables.gefx
+	*/
         /*
             The GEXF file to show ! -- can be overriden by adding
             a hash to the document location, e.g. index.html#celegans.gexf
